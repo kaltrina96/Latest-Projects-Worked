@@ -6,4 +6,4 @@ xPlace: https://www.xplacecompany.com/ <br>
 Eurotherm: https://www.eurotherm.info/it/ <br>
 Echosline: https://www.echosline.it/it/ <br>
 Alama:  https://www.alamaprofessional.com/it/
-
+BKT Tires: https://www.bkt-tires.com/
