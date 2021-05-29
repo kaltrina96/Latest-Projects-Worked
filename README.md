@@ -2,6 +2,7 @@
 
 Vigilo: https://www.vigilo4you.it/ <br>
 Comieco: https://www.comieco.org/ <br>
+Polihub: https://www.polihub.it/it/ <br>
 xPlace: https://www.xplacecompany.com/ <br>
 Eurotherm: https://www.eurotherm.info/it/ <br>
 Echosline: https://www.echosline.it/it/ <br>
